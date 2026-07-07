@@ -27,7 +27,7 @@ We have two jar sizes:
 
 ### &pound;8
 
-Pay by PayPal: [https://paypal.me/iowhoney/14](https://paypal.me/iowhoney/8)
+Pay by PayPal: [https://paypal.me/iowhoney/8](https://paypal.me/iowhoney/8)
 
 or pay on delivery
 
@@ -37,7 +37,7 @@ or pay on delivery
 
 ### &pound;14
 
-Pay by PayPal: [https://paypal.me/iowhoney/8](https://paypal.me/iowhoney/14)
+Pay by PayPal: [https://paypal.me/iowhoney/14](https://paypal.me/iowhoney/14)
 
 or pay on delivery
 
