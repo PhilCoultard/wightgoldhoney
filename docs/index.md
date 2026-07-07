@@ -5,8 +5,6 @@ header.page-header {
 }
 </style>
 
-# Wight Gold Honey
-
 * [Contact us](/contact/)
 
 Organic Honey produced in Cowes on the Isle of Wight in the South of England.
