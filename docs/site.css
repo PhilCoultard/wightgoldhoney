@@ -3,3 +3,6 @@ header.page-header {
   filter: none !important;
   background-blend-mode: normal !important;
 }
+.hide-title .page__title {
+  display: none;
+}

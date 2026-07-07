@@ -3,6 +3,9 @@ header.page-header {
   filter: none !important;
   background-blend-mode: normal !important;
 }
+.hide-title .page__title {
+  display: none;
+}
 </style>
 Organic Honey produced in Cowes on the Isle of Wight in the South of England.
 

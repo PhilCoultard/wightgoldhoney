@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-    breadcrumbs: true
+    breadcrumbs: false
   - title: "Contact"
     url: /contact/
     breadcrumbs: true
