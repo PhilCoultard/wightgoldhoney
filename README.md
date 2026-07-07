@@ -19,4 +19,6 @@ Configure a custom domain via repository's Settings/Pages tab. Documentation is 
 
 ## Theme
 
-Originally using [minima theme](https://github.com/jekyll/minima) but it was a bit 'single column' so swithced to [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/)
+Originally using [minima theme](https://github.com/jekyll/minima) but it was a bit 'single column' so swithched to [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/)
+
+See the [Structure](https://mmistakes.github.io/minimal-mistakes/docs/structure/) page for how to lay out the site.
