@@ -4,9 +4,6 @@ header.page-header {
   background-blend-mode: normal !important;
 }
 </style>
-
-* [Contact us](/contact/)
-
 Organic Honey produced in Cowes on the Isle of Wight in the South of England.
 
 ![250g and 500g Organic Honey](images/250and500.png "250g and 500g jars")
